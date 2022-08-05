@@ -1,0 +1,112 @@
+.navbar-brand
+	{
+		font-family: 'arial';
+		font-size: 32px;
+		font-weight: bold;
+		color: rgb(0,0,128,1)!important;
+	}
+
+.dropdown:hover>.dropdown-menu
+	{
+		display: block;
+	}
+
+
+
+/*******For green button*******/
+.greenBtn
+	{
+		background-color: rgb(95,207,128);
+		color: white;
+		border-radius: 50px;
+		margin-left: 10px;
+		padding-left: 25px;
+		padding-right: 25px;
+		border: 1px solid grey;
+	}
+
+/**********For No. Counting *************/
+
+
+		.card3
+{ 
+   background-image: linear-gradient(#1c92d2,#f2fcfe);
+}
+
+  .card3:hover
+{
+ 
+text-shadow:2px 2px 3px white;
+box-shadow:2px 2px 3px blue;
+transition: 0.9s linear;
+}
+
+
+
+
+.counts
+	{
+		padding: 30px 0px;
+	}
+
+.counts .counters span
+	{
+		font-size: 48px;
+		display: block;
+		color: #2c778f;
+		font-weight: 600;
+	}
+
+.counts .counters p
+	{
+		padding: 0;
+		margin: 0 0 20px 0;
+		font-family: "Railway",sans-sarif;
+		font-size: 15px;
+		font-weight: 900;
+		color: #37423b;
+                }
+                
+
+
+/*************For circle icon*************/
+
+.circle-icon
+	{
+		background: rgb(236,249,240);
+		width: 70px;
+		border-radius: 50%;
+		line-height: 50px;
+		padding: 10px;
+		text-align: center;
+		
+		vertical-align: middle;
+	}
+
+	.sticky-top {
+		position: fixed;
+		left: 0;
+		top: 0;
+		right: 0;
+		z-index: 10000;
+		display: flex;
+		background-color: whitesmoke;
+}
+	 
+  h5,h1
+      {
+        text-align: center;}
+  .clgname{
+           text-align: center;}
+   b{
+      font-size:20px;}
+  .icon{
+        background:#b0e0e6;}
+   .card{
+         background:#F0F8FF;}
+  .masg{
+       
+       text-align: center;
+       background:#b0e0e6;}
+ .head{
+       width:100px;}
